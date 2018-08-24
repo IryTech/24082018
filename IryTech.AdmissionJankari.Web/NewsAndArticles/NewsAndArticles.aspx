@@ -80,7 +80,7 @@
        
     </asp:UpdatePanel>
      <div class="one_third fright last">
-             <script type='text/javascript' src='http://www.hotelscombined.com/SearchBox/89975'></script>
+            <%-- <script type='text/javascript' src='http://www.hotelscombined.com/SearchBox/89975'></script>--%>
             </div> 
      <div class="one_third fright last">
                 <AJ:MostViewdNews ID="ucMostViewsNews" runat="server"></AJ:MostViewdNews>
